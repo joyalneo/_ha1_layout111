@@ -1,1 +1,1 @@
-{"name":"layout","type":"ui-elements","source":{"https":"https://github.com/joyalneo/_ha_layout.git","ssh":"git@github.com:joyalneo/_ha_layout.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npm run build","postPull":"npm i"}
+{"name":"layout111","type":"ui-elements","source":{"https":"https://github.com/joyalneo/_ha1_layout111","ssh":"git@github.com:joyalneo/_ha1_layout111.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npm run build","postPull":"npm i"}
